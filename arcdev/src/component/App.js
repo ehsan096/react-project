@@ -19,7 +19,7 @@ function App() {
           />
           <Route
             exact
-            path="/customsoftare"
+            path="/customsoftware"
             component={() => <div>custom softare </div>}
           />
           <Route
